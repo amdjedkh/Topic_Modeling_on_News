@@ -60,6 +60,7 @@ This project is part of the **Eleevo NLP Internship** and focuses on performing 
 ## Tools and Libraries  
 
 
+- Python  
 - Pandas, NumPy  
 - NLTK, SpaCy  
 - Scikit-learn  
